@@ -18,4 +18,4 @@ Bazı media playerlerın video dosyasının yanındaki altyazıları görmemesin
  5. MKVToolNix paketinden **mkvinfo.exe** ve **mkvmerge.exe** dosyalarını **C:\mkv** dizinine kopyalayın.
  6. Altyazı dosyasının video dosyasının aynı dizinde ve aynı isimde olduğundan emin olun.
  7. Video dosyasını **altyazi_ekleme.py** üzerine sürükleyip bırakın.
- 8. ![Kullanım](http://omerhakan.net/altyazi_ekleme.gif)
+ ![](http://omerhakan.net/altyazi_ekleme.gif)
